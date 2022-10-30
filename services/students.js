@@ -41,5 +41,4 @@ async function getStudents() {
       studentsReturn[index].classes = classes;
     });
   });
-  return studentsReturn;
 }
