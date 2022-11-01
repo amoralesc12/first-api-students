@@ -56,6 +56,7 @@ async function getStudentById(req, res) {
 }
 
 async function getStudentById2(req, res) {
+  //query params
   try {
     const { id } = req.query;
     const errorMessages = [];
