@@ -12,3 +12,5 @@ router.post("/", classController.createClass);
 
 module.exports = router;
 //ADDDD
+ module ;
+ module;
